@@ -1,0 +1,26 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+route_VRT_2498,VRT,1,Harris Ranch via Parkcenter,,3,,ffcd00,000000
+route_VRT_2499,VRT,2,Broadway,,3,,685bc7,ffffff
+route_VRT_2500,VRT,3,Vista,,3,,ff8200,000000
+route_VRT_2501,VRT,4,Roosevelt,,3,,05c3de,000000
+route_VRT_2502,VRT,5,Emerald,,3,,8b0e04,ffffff
+route_VRT_2503,VRT,6,Orchard,,3,,0072ce,ffffff
+route_VRT_2504,VRT,7A,Fairview Ustick,,3,,e93cac,ffffff
+route_VRT_2505,VRT,7B,Fairview - Towne Square Mall,,3,,e93cac,ffffff
+route_VRT_2506,VRT,8,Five Mile,,3,,009ca6,ffffff
+route_VRT_2507,VRT,8x,Five Mile Chinden,,3,,009ca6,ffffff
+route_VRT_2508,VRT,9,State Street,,3,,001489,ffffff
+route_VRT_2509,VRT,10,Hill Road ,,3,,fbb161,000000
+route_VRT_2510,VRT,11,Garden City,,3,,ba0c2f,ffffff
+route_VRT_2511,VRT,12,Maple Grove,,3,,b6bd00,000000
+route_VRT_2512,VRT,16,VA/Hyde Park Loop,,3,,934d11,ffffff
+route_VRT_2513,VRT,17,Warm Springs,,3,,00a9ce,ffffff
+route_VRT_2514,VRT,28,Cole/Victory,,3,,51284f,ffffff
+route_VRT_2515,VRT,29,Overland,,3,,009639,ffffff
+route_VRT_2516,VRT,40,Nampa/Meridian Express,,3,,aa8066,ffffff
+route_VRT_2517,VRT,42,Happy Day to Towne Square Mall,,3,,486b4c,ffffff
+route_VRT_2518,VRT,43,Caldwell Express,,3,,97d700,000000
+route_VRT_2520,VRT,45,BSU Express,,3,,008c95,ffffff
+route_VRT_2521,VRT,51,East Nampa,,3,,f8971d,000000
+route_VRT_2522,VRT,52,Caldwell Blvd,,3,,63619a,ffffff
+route_VRT_2523,VRT,55,CWI Shuttle,,3,,71cc98,000000
